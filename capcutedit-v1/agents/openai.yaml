@@ -1,0 +1,4 @@
+interface:
+  display_name: "CapcutEdit-v1"
+  short_description: "Edit talking-head shorts in native CapCut projects"
+  default_prompt: "Use $capcutedit-v1 to edit my footage into an editable CapCut short using my saved style."
